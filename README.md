@@ -15,6 +15,10 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+Graduando de Engenharia de Computação na UFES
+
+Desenvolvedor Web Full-Stack Junior
+
 ## Redes Sociais
 <div display="inline">
   <a href="www.linkedin.com/in/nathan-garcia-freitas"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
